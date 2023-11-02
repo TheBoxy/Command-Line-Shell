@@ -9,7 +9,7 @@ character-oriented interface in which the user types a string of characters and 
 | pwd | Print the name of the working directory|
 | quit | Ends the shell process|
 | jobs | Print the name of the working directory. |
-| fg <job_id|pid> | changes the state of a job currently in the Stopped state or the Background/Running state to the Foreground/Running state|
-| bg <job_id|pid> | that changes the state of a job currently in the Stopped state to the Background/Running state|
-| kill <job_id|pid>  | list the running and stopped background jobs|
+| fg <job_id or pid> | changes the state of a job currently in the Stopped state or the Background/Running state to the Foreground/Running state|
+| bg <job_id or pid> | that changes the state of a job currently in the Stopped state to the Background/Running state|
+| kill <job_id or pid>  | list the running and stopped background jobs|
 
